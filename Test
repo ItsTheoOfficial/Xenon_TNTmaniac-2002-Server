@@ -1,0 +1,7 @@
+echo "# Xenon_TNTmaniac-2002-Server" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/TNTmaniac2002/Xenon_TNTmaniac-2002-Server.git
+git push -u origin master
